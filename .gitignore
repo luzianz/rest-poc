@@ -6,3 +6,4 @@ typings
 *.js.map
 *.js
 !gruntfile.js
+data.db
