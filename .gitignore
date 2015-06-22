@@ -3,5 +3,6 @@
 .notes
 node_modules
 typings
+*.js.map
 *.js
 !gruntfile.js
