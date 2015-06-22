@@ -1,0 +1,7 @@
+.settings
+.tscache
+.notes
+node_modules
+typings
+*.js
+!gruntfile.js
